@@ -1,0 +1,38 @@
+---
+title: "Qualtrics M02: Experimental Design"
+subtitle: "Social Media Leader Study"
+author: "Ruben Garcia"
+date: "2026-09-30"
+format:
+  html:
+    theme:
+      light: [cosmo, custom.scss]
+    toc: true
+    toc-depth: 2
+    toc-location: left
+    number-sections: false
+    code-fold: show
+    code-tools: true
+    embed-resources: true
+    smooth-scroll: true
+---
+
+## 
+
+# Qualtrics: Randomizer
+
+![Screen Shot of the edited randomizer and connecting branches](Qualtrics_randomizer and branches.png)
+
+## Rearranging Confusing Questions
+
+![Rearranged highlight variety of Social Media and gather more data](Socail media rearrangment.png)
+
+### Examples of Other Adjustments Made
+
+![Ex.1 Rephrased question and made it possible for multiple answers](Example_1.png)
+
+![Ex. 2 Planted a sliding scale to gauge information](Example2.png)
+
+![Ex. 3 Made a matrix to gather more information with multiple social media](Example3.png)
+
+# Appendix
